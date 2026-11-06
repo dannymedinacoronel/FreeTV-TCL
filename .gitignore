@@ -1,0 +1,15 @@
+# Datos locales del televisor y registros
+*.txt
+registro*.txt
+diagnostico*.txt
+info_tele.txt
+error_inicio.txt
+copia_antes.txt
+direccion_tele.txt
+captura_*.png
+fotos_tele/
+platform-tools/
+
+# Archivos temporales
+*.tmp
+pt.zip
