@@ -52,3 +52,5 @@ El programa guarda localmente la dirección de la tele, el estado previo, los re
 ## Palabras clave
 
 TCL Android TV, optimizar tele TCL lenta, ADB inalámbrico para Android TV, configurar TCL desde Windows, launcher alternativo para Android TV, salvapantallas Android TV y diagnóstico ADB.
+
+El desarrollador no se hace cargo de los depesperfectos que pueda ocasionar el software.
