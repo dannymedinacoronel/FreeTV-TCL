@@ -16,6 +16,10 @@ El nombre de la red doméstica se ocultó en ambas imágenes.
 
 ![Aplicaciones en el launcher](screenshots/launcher-apps.png)
 
+**Vista de inicio, fondo y accesos**
+
+![Vista de inicio con fondo y accesos](screenshots/launcher-featured.png)
+
 ## Funciones
 
 - Conectar y vincular el televisor por ADB inalámbrico.
